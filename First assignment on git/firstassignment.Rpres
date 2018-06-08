@@ -1,0 +1,26 @@
+first assignment
+========================================================
+author: ssemakula julius
+date: 8 jun 2018
+autosize: true
+
+First plot
+========================================================
+this presentation use knitr
+```{r echo=FALSE}
+plot(1:20, pch=1:20)
+```
+
+Slide With Code
+========================================================
+
+```{r}
+summary(cars)
+```
+
+Slide With Plot
+========================================================
+
+```{r, echo=FALSE}
+plot(cars)
+```

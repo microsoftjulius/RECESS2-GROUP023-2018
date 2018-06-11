@@ -1,1 +1,3 @@
 this is created from terminal. so hi git
+
+some more changes made by james.

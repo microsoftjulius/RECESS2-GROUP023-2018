@@ -1,4 +1,4 @@
-## Recess2 group members and Emails plus registration and studnet numbers
+# RECESS2-GROUP023-2018
 
 ## GROUP MEMBER DETAILS
 

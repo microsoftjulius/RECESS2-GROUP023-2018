@@ -5,6 +5,6 @@
 | Name               | Regno         | Studno    |Email               |
 | ------------------:|:-------------:| ---------:|-------------------:|
 | SSEMAKULA JULIUS   | 16/U/11606/PS | 216008551 |julisema4@gmail.com |
-| OCIBA JAMES        | centered      |   $12     |ocibajames@gmail.com|
-| NUMLOD DRAKE MILTON| are neat      |    $1     |                    |
+| OCIBA JAMES        |               |           |ocibajames@gmail.com|
+| NUMLOD DRAKE MILTON|               |           |                    |
 |ISAAC NAMBAFU       |               |           |                    |

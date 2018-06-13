@@ -5,6 +5,6 @@
 | Name                | Regno         | Studno    |Email               |
 | -------------------:|:-------------:| ---------:|-------------------:|
 | SSEMAKULA JULIUS    | 16/U/11606/PS | 216008551 |julisema4@gmail.com |
-| OCIBA JAMES         | 16/U/1858     |216001838   ocibajames@gmail.com|
+| OCIBA JAMES         | 16/U/1858     |216001838  | ocibajames@gmail.com|
 |NUWAGABA DRAKE MILTON|               |           |                    |
 |BUYINGA ISAAC NAMBAFU| 16/U/4484/EVE | 216004860 | isaacnbfu@gmail.com|

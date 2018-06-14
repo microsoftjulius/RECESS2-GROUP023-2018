@@ -6,5 +6,6 @@
 | -------------------:|:-------------:| ---------:|-------------------:|
 | SSEMAKULA JULIUS    | 16/U/11606/PS | 216008551 |julisema4@gmail.com |
 | OCIBA JAMES         | 16/U/1858     |216001838  | ocibajames@gmail.com|
-|NUWAGABA DRAKE MILTON|               |           |                    |
+|NUWAGABA DRAKE MILTON| 16/U/10529/EVE|216016892               |     numlod@gmail.com               |
 |BUYINGA ISAAC NAMBAFU| 16/U/4484/EVE | 216004860 | isaacnbfu@gmail.com|
+      
